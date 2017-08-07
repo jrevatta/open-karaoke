@@ -1,0 +1,45 @@
+Requerimientos pendientes del proyecto MVP de open karaoke
+
+En el proceso de login:
+Dar mensaje correcto cuando el password es incorrecto
+Crear login con cuenta de google
+
+
+En el proceso de registro:
+
+Validar que contraseñas sean iguales con javascript antes del send
+Validar que contraseñas sean iguales en el backend.
+Crear registro con cuenta de google.
+Diferenciar registro para pagados.
+
+Modalidad de registro:
+-Crear afiliacion con solicitud de visita de representante.
+-Crear afiliacion con deposito en cuenta corriente y envio de voucher
+-Crear afiliacion con pago directo en la web
+
+En el menu del usuario:
+
+Crear toda la funcionalidad de:
+Editar perfil
+Cambiar informacion del usuario
+Gestionar rooms
+cambiar password
+Dar de baja
+Dar logout
+
+En la web:
+
+Crear backend para enviar email de suscripcion
+
+En la funcionalidad de add lista musical
+
+Crear entidad para almacenar listas
+Crear API para buscar en youtube/Spotify
+
+
+En la funcionalidad de add Room/Karaoke
+
+Crear entidad para almacenar rooms
+Crear entidad para controlar limite de rooms para afiliados gratuitos y pagados
+
+Falta el proyecto de la APP.
